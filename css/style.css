@@ -457,6 +457,7 @@ i{
     list-style: none;
     display: flex;
     justify-content: center;
+    padding-top: 200px;
 }
 
 .slick-dots button{
