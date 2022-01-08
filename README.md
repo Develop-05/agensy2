@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # Привет это мой второй сайт
 ### Переход на мой сайт 
->  https://denys-lucky.github.io/agensy2/
-=======
+>  https://Develop-05.github.io/agensy2/
 # Привет это мой  сайт
 ### Переход на мой сайт 
 >  https://denys-lucky.github.io/second-site/
